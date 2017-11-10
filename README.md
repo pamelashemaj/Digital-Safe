@@ -19,5 +19,5 @@ Emri i Projektit : Secure Backup Software System
 Url - http://nevonprojects.com/secure-backup-software-system/
 
 Projekti jone synon
-qe  userat e ndryshem te  ruajn filet e tyre  , dokumenta , imazhe , video , audio ne  menyre sa me  te sigurt edhe  sa  me te  besueshme  nepermjet nje  app ne descop . app mund te  shkarkohet edhe  ne  telefon nga  app store si dhe  play store  do jet  i  formateve android edhe apple .
+qe  userat e ndryshem te  ruajn filet e tyre  , **dokumenta** , imazhe , video , audio ne  menyre sa me  te sigurt edhe  sa  me te  besueshme  nepermjet nje  app ne descop . app mund te  shkarkohet edhe  ne  telefon nga  app store si dhe  play store  do jet  i  formateve android edhe apple .
 
