@@ -6,7 +6,7 @@ grupi jone do te  permbaj 6 veta.
 
 2-Suela Xamaxa
 
-3-Elton  Islamaj
+3-Ermal Ndoji
 
 4-Skerdilajd Xhaferi 
 
