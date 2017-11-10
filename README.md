@@ -1,6 +1,6 @@
 # digital-safe
 
-grupi jone do te  permbaj 6 veta.
+Grupi jone do te  permbaj 6 veta.
 
 1- Klaudio Muskaj ( Drejtuesi i grupit ) 
 
