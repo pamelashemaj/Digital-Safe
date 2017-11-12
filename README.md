@@ -1,6 +1,6 @@
 # *Digital-safe*
 
-Grupi jone do te permbaj**6**veta
+Grupi jone do te permbaj **6** veta
 
 # Klaudio Muskaj( Drejtuesi i grupit ) 
 #  Suela Xamaxa
