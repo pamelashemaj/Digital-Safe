@@ -3,7 +3,7 @@
 Grupi jone do te permbaj 6 veta
 
 # This is an <h1>  Klaudio Muskaj( Drejtuesi i grupit ) 
-2-Suela Xamaxa
+# This is an <h1> Suela Xamaxa
 3-Ermal Ndoji
 4-Skerdilajd Xhaferi 
 5-Metjon Musko
