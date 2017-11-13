@@ -1,5 +1,5 @@
 # Hapi 1-  Aplikacioni jone do punoi nepermjet __internetit__ 
-# Hapi 2-  SHkarkohet aplikacioni nepermjet __AppStore_ dhe  __PlayStore__
+# Hapi 2-  SHkarkohet aplikacioni nepermjet _AppStore_ dhe  __PlayStore__
 # Hapi 3-  Pasi eshte  shkarkuar, e lancoim ate 
 # Hapi 4-  Hapet dritarja kryesore ku mund te  logohemi ( SIG IN ) 
 # Hapi 5-  Logohemi o me  adres e-mail, ose GOOGLE si dhe  password 
