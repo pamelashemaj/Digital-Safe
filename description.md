@@ -14,3 +14,5 @@ Gjithashtu aplikacioni jone mundeson edhe  me  shum space ( GB ) pra  ai mundeso
     +Emri i aplikacionit tone do te  quhet *DigiFile*
     +Ikona e  aplikacionit tone do te  jete ikona e  nje  folderi te zakonshme dhe brenda saj do te  jet shkruar *DigiFile*
     +Ne acountin tone tek aplikacionin mund te  nderroim edhe  adresen e  emailit ose  paswordin tone , ta pershtatim sipas deshires            sone por  mund edhe te nderroim foton e  profilit sipas deshires sone.
+     
+     gjithashtu aplikacioni jone  do te mundesoi edhe  login e  disa  personave te tjer si psh ADMIN . ne  aplikacionin tone  ne  mund hedhim  dokumenta  por  me  nje  kapacitet te  caktuar .
